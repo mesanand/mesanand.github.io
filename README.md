@@ -2,16 +2,16 @@
 
 ##Projects 
 ###Project 1
-- Description
-- Links
+- Created a 501(c3) Non-profit ran and organized by teenagers
+- [Links](https://www.teens4teens.net/)
 
   ###Project 2
-  - Description
-  - Links
+  - Using an API Key and Web Scraper we were able to find all the nutrition around the campus and the price that it's worth. With this we can give the user a suggestion for the amount of real nutrition they will receive for the budget they are on - giving a reality check for those in college.
+  - [Links](https://www.linkedin.com/in/mehr-anand/)
  
   #Education
-  - Some University
+  - Northeastern University - Computer Science with a concentration in AI and a minor in Mathematics
  
   #Work History
-  - Work place 1
-  - Work place 2
+  - Dana Farber Cancer Institute
+  - Synchrony Finanical
