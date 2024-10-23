@@ -1,5 +1,3 @@
-##TESTING TESTING TEST TEST
-
 # Mehr Anand
  
 #### Technical Skills: Python, Kotlin, Java, HTML/CSS, MySQL
