@@ -1,3 +1,4 @@
+/* General Styling */
 body {
   font-family: Arial, sans-serif;
   margin: 0;
@@ -6,16 +7,83 @@ body {
   color: #333;
 }
 
+/* Header Section */
 header {
-  text-align: center;
-  padding: 50px 0;
   background-color: #0073b1;
+  color: white;
+  text-align: center;
+  padding: 2rem 0;
+}
+
+header .profile img {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  margin-bottom: 1rem;
+}
+
+header h1 {
+  margin: 0.5rem 0;
+}
+
+header p {
+  margin: 0;
+  font-size: 1.2rem;
+}
+
+/* Section Styling */
+section {
+  padding: 2rem;
+  max-width: 800px;
+  margin: auto;
+}
+
+h2 {
+  color: #0073b1;
+  border-bottom: 2px solid #0073b1;
+  padding-bottom: 0.5rem;
+  margin-bottom: 1rem;
+}
+
+/* Experience & Education */
+.experience-item, .education-item {
+  margin-bottom: 1.5rem;
+}
+
+strong {
+  font-weight: bold;
+}
+
+/* Skills */
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+ul li {
+  background-color: #0073b1;
+  color: white;
+  display: inline-block;
+  margin-right: 0.5rem;
+  padding: 0.5rem 1rem;
+  border-radius: 5px;
+  margin-bottom: 0.5rem;
+}
+
+/* Footer */
+footer {
+  text-align: center;
+  padding: 2rem;
+  background-color: #333;
   color: white;
 }
 
-footer {
-  text-align: center;
-  padding: 20px;
-  background-color: #333;
-  color: white;
+footer .social-links a {
+  color: #0073b1;
+  text-decoration: none;
+  margin-right: 1rem;
+}
+
+footer .social-links a:hover {
+  text-decoration: underline;
 }
