@@ -1,78 +1,61 @@
-# mesanand.github.io
+# Mehr Anand
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="description" content="Mehr Anand's Personal Portfolio">
-  <title>Mehr Anand | Personal Portfolio</title>
-  <link rel="stylesheet" href="style.css">
-</head>
-<body>
+#### Technical Skills: Python, Kotlin, Java, R, HTML/CSS, MySQL
 
-  <!-- Header Section -->
-  <header>
-    <div class="profile">
-      <img src="path_to_profile_image.jpg" alt="Profile Picture">
-      <h1>Mehr Anand</h1>
-      <p>Computer Science Student | AI/ML Enthusiast | Software Developer</p>
-    </div>
-  </header>
+## Education
+- **Bachelor of Science in Computer Science** | Northeastern University, Boston, MA (_Sep 2023 - May 2027_)  
+  GPA: 3.5
 
-  <!-- About Section -->
-  <section id="about">
-    <h2>About Me</h2>
-    <p>
-      Hi! I'm Mehr Anand, a Computer Science student with a passion for AI/ML and software development. 
-      I'm currently looking for internship opportunities in software engineering. Feel free to reach out!
-    </p>
-  </section>
+## Work Experience
 
-  <!-- Experience Section -->
-  <section id="experience">
-    <h2>Experience</h2>
-    <div class="experience-item">
-      <h3>Teens4Teens</h3>
-      <p><strong>CEO & Co-Founder</strong> | June 2021 - October 2024</p>
-      <p>Managed a nonprofit focused on mental health support for teens through an interactive mobile app.</p>
-    </div>
-    <div class="experience-item">
-      <h3>ATRIUM</h3>
-      <p><strong>Co-Founder & Member</strong> | 2023 - Present</p>
-      <p>Web development and graphic design company, helping immigrant restaurant startups establish an online presence.</p>
-    </div>
-  </section>
+**Co-Founder & CEO @ Teens4Teens** (_2022 - Present_)  
+- Spearheaded a student-driven mental health nonprofit, reaching over 2 million views and raising $5,000.  
+- Successfully established 50+ international chapters and secured 501(c)(3) status.
 
-  <!-- Education Section -->
-  <section id="education">
-    <h2>Education</h2>
-    <div class="education-item">
-      <h3>Northeastern University</h3>
-      <p><strong>Bachelor of Science in Computer Science</strong> | Expected Graduation: 2026</p>
-    </div>
-  </section>
+**CMO & Web Developer @ Frontera**  
+- Leading marketing and website development for a stealth startup inspired by Buildspace, focusing on entrepreneurial startups.
 
-  <!-- Skills Section -->
-  <section id="skills">
-    <h2>Skills</h2>
-    <ul>
-      <li>Java</li>
-      <li>Python</li>
-      <li>SQL</li>
-      <li>Relational Databases</li>
-      <li>AI/ML</li>
-    </ul>
-  </section>
+**Consultant @ NetGen Business and Law Forum** (_2024 - Present_)  
+- Advised a startup nonprofit on 501(c)(3) creation based on personal experience and legal knowledge.
 
-  <!-- Footer Section -->
-  <footer>
-    <div class="social-links">
-      <a href="https://github.com/mesanand">GitHub</a> | 
-      <a href="https://www.linkedin.com/in/mehr-anand/">LinkedIn</a>
-    </div>
-  </footer>
+**Intern @ Dana-Farber Cancer Institute** (_Jun 2021 - Sep 2022_)  
+- Developed a Python algorithm to analyze DNA data, identifying urothelial cancer predispositions in collaboration with the MIT/Harvard Broad Institute.
 
-</body>
-</html>
+**Intern @ Synchrony Financial** (_May 2020 - Aug 2020_)  
+- Created and facilitated Python programming and computer science sessions through a leadership externship program.
+
+## Projects
+
+### Campus Nutrition Helper
+**Tools**: API Key, Web Scraper  
+- Won 1st place at Wafflehacks. Developed a web scraper and API tool that provides food options on campus based on budget and dietary preferences.
+
+### Present Party Unity
+**Tools**: C++  
+- Created a 4-player holiday-themed game for controllers and PC. Won 1st place in a Northeastern University game jam.
+
+### Teens4Teens Mobile App
+**Tools**: Swift, React  
+- Developed a mobile app for the Teens4Teens nonprofit, incorporating all website functionalities into a user-friendly mobile experience.
+
+## Clubs & Leadership
+
+- **President & Founder @ Content Club**  
+  - Reached over 20,000 views on Instagram; expanded chapters in Boston and California.
+  
+- **Co-Founder & Operations Manager @ Robotics Club**  
+  - Organized robotics events at university and Pre-K centers; built Raspberry Pi racing kits.
+
+- **Co-Founder & VP @ Hydroponics Club**  
+  - Spearheaded the hydroponics unit plan for Gaia Greenhouse, leading campus-wide environmental events.
+
+- **Co-Founder & President @ Dungeons and Dragons Club**  
+  - Organized events and managed funding, securing partnerships with the university library.
+
+## Languages
+- English (Native), Punjabi (Limited Working Proficiency), Hindi (Limited Working Proficiency), Latin (Limited Working Proficiency)
+
+## Contact
+- **LinkedIn**: [Mehr Anand](https://www.linkedin.com/in/mehr-anand/)  
+- **GitHub**: [mesanand](https://github.com/mesanand)
 
