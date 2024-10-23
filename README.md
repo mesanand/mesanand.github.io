@@ -1,6 +1,9 @@
 # Mehr Anand
 
-#### Technical Skills: Python, Kotlin, Java, R, HTML/CSS, MySQL
+#### Technical Skills: Python, Kotlin, Java, HTML/CSS, MySQL
+## Skills
+- **Applications**: VS Studio, GitHub, LaTeX, DataGrip, Docker, IntelliJ, Slack, Microsoft Office, Notion, Figma, Discord
+
 
 ## Education
 - **Bachelor of Science in Computer Science** | Northeastern University, Boston, MA (_Sep 2023 - May 2027_)  
@@ -14,9 +17,6 @@
 
 **CMO & Web Developer @ Frontera**  
 - Leading marketing and website development for a stealth startup inspired by Buildspace, focusing on entrepreneurial startups.
-
-**Consultant @ NetGen Business and Law Forum** (_2024 - Present_)  
-- Advised a startup nonprofit on 501(c)(3) creation based on personal experience and legal knowledge.
 
 **Intern @ Dana-Farber Cancer Institute** (_Jun 2021 - Sep 2022_)  
 - Developed a Python algorithm to analyze DNA data, identifying urothelial cancer predispositions in collaboration with the MIT/Harvard Broad Institute.
@@ -33,18 +33,22 @@
 ### Present Party Unity
 **Tools**: C++  
 - Created a 4-player holiday-themed game for controllers and PC. Won 1st place in a Northeastern University game jam.
+- [Present Party](https://fizzy214.itch.io/present-party)
 
-### Teens4Teens Mobile App
-**Tools**: Swift, React  
+### Teens4Teens Mobile App + Website
+**Tools**: Swift, React, HTML, B12, Vercel  
 - Developed a mobile app for the Teens4Teens nonprofit, incorporating all website functionalities into a user-friendly mobile experience.
+- [Teens4Teens Website](https://www.teens4teens.net/)
 
 ## Clubs & Leadership
 
 - **President & Founder @ Content Club**  
-  - Reached over 20,000 views on Instagram; expanded chapters in Boston and California.
+  - Reached over 20,000 views on Instagram; expanded chapters in Boston and California. Currently Reaching to Adobe for partnership.
+  - [Content Club Instagram](https://www.instagram.com/neucontentclub/reels/)
   
 - **Co-Founder & Operations Manager @ Robotics Club**  
   - Organized robotics events at university and Pre-K centers; built Raspberry Pi racing kits.
+  - [Robotics Club Instagram](https://www.instagram.com/neuoak_robotics/)
 
 ## Languages
 - English (Native), Punjabi (Limited Working Proficiency), Hindi (Limited Working Proficiency), Latin (Limited Working Proficiency)
