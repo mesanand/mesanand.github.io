@@ -11,32 +11,39 @@
 **Co-Founder & Board @ Teens4Teens 501(c3)** (_2022 - Present_)  
 - Spearheaded a student-driven mental health nonprofit, reaching over 2 million views and raising $5,000.  
 - Successfully established 50+ international chapters and secured 501(c)(3) status.
-- - [Teens4Teens Website](https://www.teens4teens.net/)
-  - 
+- [Teens4Teens Website](https://www.teens4teens.net/)
+
+    
 **CMO & Web Developer @ Frontera**  
 - Leading marketing and website development for a stealth startup inspired by Buildspace, focusing on entrepreneurial startups.
 - [Frontera Website](https://frontera.me/)
+
+  
 **Intern @ Dana-Farber Cancer Institute** (_Jun 2021 - Sep 2022_)
-  
 - Developed a Python algorithm to analyze DNA data, identifying urothelial cancer predispositions in collaboration with the MIT/Harvard Broad Institute.
-**Intern @ Synchrony Financial** (_May 2020 - Aug 2020_)
+
   
+**Intern @ Synchrony Financial** (_May 2020 - Aug 2020_)
 - Created and facilitated Python programming and computer science sessions through a leadership externship program.
 
 ## Projects
-
 ### Campus Nutrition Helper
 **Tools**: API Key, Web Scraper  
 - Won 1st place at Wafflehacks. Developed a web scraper and API tool that provides food options on campus based on budget and dietary preferences.
 
 ### Present Party Unity
 **Tools**: C++  
-- Created a 4-player holiday-themed game for controllers and PC. Won 1st place in a Northeastern University game jam.
+- Won 1st place in a Northeastern University game jam. Created a 4-player holiday-themed game for controllers and PC. 
 - [Present Party](https://fizzy214.itch.io/present-party)
 
 ### Teens4Teens Mobile App + Website
 **Tools**: Swift, React, HTML, B12, Vercel  
 - Developed a mobile app for the Teens4Teens nonprofit, incorporating all website functionalities into a user-friendly mobile experience.
+
+### Atrium
+- Helped create UI/UX and general design for startup
+- found 50% of clients, 4k+ followers, serving in 5+ foreign languages
+- [Atrium website](https://www.goatrium.net/)
 
 ## Clubs & Leadership
 
