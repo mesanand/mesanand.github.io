@@ -1,7 +1,6 @@
 # mesanand.github.io
 
-##Projects 
-###Project 1
+Project 1
 - Created a 501(c3) Non-profit ran and organized by teenagers
 - [Links](https://www.teens4teens.net/)
 
