@@ -8,7 +8,7 @@
 
 ## Work Experience
 
-**Co-Founder & CEO @ Teens4Teens** (_2022 - Present_)  
+**Co-Founder & Board @ Teens4Teens** (_2022 - Present_)  
 - Spearheaded a student-driven mental health nonprofit, reaching over 2 million views and raising $5,000.  
 - Successfully established 50+ international chapters and secured 501(c)(3) status.
 
@@ -45,12 +45,6 @@
   
 - **Co-Founder & Operations Manager @ Robotics Club**  
   - Organized robotics events at university and Pre-K centers; built Raspberry Pi racing kits.
-
-- **Co-Founder & VP @ Hydroponics Club**  
-  - Spearheaded the hydroponics unit plan for Gaia Greenhouse, leading campus-wide environmental events.
-
-- **Co-Founder & President @ Dungeons and Dragons Club**  
-  - Organized events and managed funding, securing partnerships with the university library.
 
 ## Languages
 - English (Native), Punjabi (Limited Working Proficiency), Hindi (Limited Working Proficiency), Latin (Limited Working Proficiency)
