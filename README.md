@@ -13,7 +13,7 @@
 - Successfully established 50+ international chapters and secured 501(c)(3) status.
 - [Teens4Teens Website](https://www.teens4teens.net/)
 
-    
+
 **CMO & Web Developer @ Frontera**  
 - Leading marketing and website development for a stealth startup inspired by Buildspace, focusing on entrepreneurial startups.
 - [Frontera Website](https://frontera.me/)
