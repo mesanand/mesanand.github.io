@@ -1,26 +1,22 @@
 # Mehr Anand
  
 #### Technical Skills: Python, Kotlin, Java, HTML/CSS, MySQL
-## Skills
-- **Applications**: VS Studio, GitHub, LaTeX, DataGrip, Docker, IntelliJ, Slack, Microsoft Office, Notion, Figma, Discord
+#### Applications: VS Studio, GitHub, LaTeX, DataGrip, Docker, IntelliJ, Slack, Microsoft Office, Notion, Figma, Discord
 
 
 ## Education
-- **Bachelor of Science in Computer Science** | Northeastern University, Boston, MA (_Sep 2023 - May 2027_)  
-  GPA: 3.5
+- **Bachelor of Science in Computer Science** | Northeastern University, Boston, MA (_Sep 2023 - May 2027_) | GPA: 3.5
 
 ## Work Experience
-
-**Co-Founder & Board @ Teens4Teens** (_2022 - Present_)  
+**Co-Founder & Board @ Teens4Teens 501(c3)** (_2022 - Present_)  
 - Spearheaded a student-driven mental health nonprofit, reaching over 2 million views and raising $5,000.  
 - Successfully established 50+ international chapters and secured 501(c)(3) status.
-
+- - [Teens4Teens Website](https://www.teens4teens.net/)
 **CMO & Web Developer @ Frontera**  
 - Leading marketing and website development for a stealth startup inspired by Buildspace, focusing on entrepreneurial startups.
-
+- [Frontera Website](https://frontera.me/)
 **Intern @ Dana-Farber Cancer Institute** (_Jun 2021 - Sep 2022_)  
 - Developed a Python algorithm to analyze DNA data, identifying urothelial cancer predispositions in collaboration with the MIT/Harvard Broad Institute.
-
 **Intern @ Synchrony Financial** (_May 2020 - Aug 2020_)  
 - Created and facilitated Python programming and computer science sessions through a leadership externship program.
 
@@ -38,7 +34,6 @@
 ### Teens4Teens Mobile App + Website
 **Tools**: Swift, React, HTML, B12, Vercel  
 - Developed a mobile app for the Teens4Teens nonprofit, incorporating all website functionalities into a user-friendly mobile experience.
-- [Teens4Teens Website](https://www.teens4teens.net/)
 
 ## Clubs & Leadership
 
