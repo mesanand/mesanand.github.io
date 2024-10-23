@@ -1,5 +1,5 @@
 # Mehr Anand
-
+ 
 #### Technical Skills: Python, Kotlin, Java, HTML/CSS, MySQL
 ## Skills
 - **Applications**: VS Studio, GitHub, LaTeX, DataGrip, Docker, IntelliJ, Slack, Microsoft Office, Notion, Figma, Discord
