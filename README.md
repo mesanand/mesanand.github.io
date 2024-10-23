@@ -12,12 +12,15 @@
 - Spearheaded a student-driven mental health nonprofit, reaching over 2 million views and raising $5,000.  
 - Successfully established 50+ international chapters and secured 501(c)(3) status.
 - - [Teens4Teens Website](https://www.teens4teens.net/)
+  - 
 **CMO & Web Developer @ Frontera**  
 - Leading marketing and website development for a stealth startup inspired by Buildspace, focusing on entrepreneurial startups.
 - [Frontera Website](https://frontera.me/)
-**Intern @ Dana-Farber Cancer Institute** (_Jun 2021 - Sep 2022_)  
+**Intern @ Dana-Farber Cancer Institute** (_Jun 2021 - Sep 2022_)
+  
 - Developed a Python algorithm to analyze DNA data, identifying urothelial cancer predispositions in collaboration with the MIT/Harvard Broad Institute.
-**Intern @ Synchrony Financial** (_May 2020 - Aug 2020_)  
+**Intern @ Synchrony Financial** (_May 2020 - Aug 2020_)
+  
 - Created and facilitated Python programming and computer science sessions through a leadership externship program.
 
 ## Projects
