@@ -1,5 +1,7 @@
-title: mesanand
-logo: docs/assets/Linkend Profile Picture.JPG 
-description: LinkedIn/Nonprofit Consultant | CS + AI @ Northeastern 
-#show_downloads: true 
-theme: jekyll-theme-minimal
+title: Mehr Anand - Portfolio
+description: AI‑focused CS + Applied Math @ Northeastern · Building ML + analytics that ship
+# Disable Jekyll theme to use custom site
+theme: null
+plugins: []
+# Show downloads button
+show_downloads: false
