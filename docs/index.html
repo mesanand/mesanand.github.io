@@ -4,159 +4,148 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Mehr Anand | Portfolio</title>
-  <!-- Link to the CSS file -->
   <link rel="stylesheet" href="assets/style.css">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
 </head>
 <body>
-  <!-- Header Section -->
-  <header>
-    <div class="profile">
-      <img src="assets/Linkend Profile Picture.JPG" alt="Mehr Anand">
-      <h1>Mehr Anand</h1>
-      <p>AI‑focused CS + Applied Math @ Northeastern · Building ML + analytics that ship</p>
-    </div>
-  </header>
-
-  <!-- About Me Section -->
-  <section id="about">
-    <h2>About Me</h2>
-    <p>Hello! I'm Mehr, a passionate Computer Science student at Northeastern University with a concentration in AI and a minor in Applied Mathematics. I am deeply interested in software development, artificial intelligence, and machine learning. I love solving complex problems and building innovative solutions that make a difference.</p>
-    <p>When I'm not coding, you can find me exploring new technologies, contributing to open-source projects, or collaborating with fellow developers on exciting projects.</p>
-  </section>
-
-  <!-- Skills Section -->
-  <section id="skills">
-    <h2>Technical Skills</h2>
-    <ul>
-      <li>Python</li>
-      <li>Java</li>
-      <li>SQL</li>
-      <li>JavaScript (React)</li>
-      <li>Kotlin</li>
-      <li>Bash</li>
-      <li>LaTeX</li>
-      <li>scikit-learn</li>
-      <li>TensorFlow</li>
-      <li>Power BI</li>
-      <li>Tableau</li>
-      <li>AWS (Lambda, S3)</li>
-      <li>Azure</li>
-      <li>PostgreSQL</li>
-      <li>MySQL</li>
-      <li>MongoDB</li>
-      <li>Docker</li>
-      <li>GitHub</li>
-    </ul>
-  </section>
-
-  <!-- Experience Section -->
-  <section id="experience">
-    <h2>Work Experience</h2>
-    <div class="experience-item">
-      <strong>Financial Machine Learning Engineer Co‑op</strong> - Brewster EMS<br>
-      <em>Jul 2025 – Dec 2025</em><br>
-      <p>• Built geospatial clustering on historical 911 data to optimize ambulance deployment and staffing<br>
-      • Shipped a full‑stack real‑time anomaly detection pipeline, improving flagging accuracy by 80%<br>
-      • Delivered interactive financial research reports and custom pipelines for executive decisions<br>
-      • Trained multi‑interval time‑series models to forecast call volumes for proactive resourcing<br>
-      • Designed vehicle‑to‑crew optimization to reduce overtime and idle time</p>
-    </div>
-    
-    <div class="experience-item">
-      <strong>CTO & Founding Member</strong> - Teens4Teens (501(c)(3))<br>
-      <em>May 2022 – Present</em><br>
-      <p>• Co‑founded and scaled a student nonprofit to 50+ international chapters and 2M+ social views<br>
-      • Raised $100k+ for orphanages and shelters; secured grants to sustain operations<br>
-      • Launched a full‑stack hiring platform that automated HR for 5,000+ applicants with 150% higher throughput<br>
-      • Built a React + Swift mobile app mirroring core website features<br>
-      • Site: <a href="https://www.teens4teens.net/" target="_blank">https://www.teens4teens.net/</a></p>
-    </div>
-
-    <div class="experience-item">
-      <strong>Cloud Engineer</strong> - Kaleidoscope (Khoury student org council)<br>
-      <em>Jan 2025 – Present</em><br>
-      <p>• Implemented AWS infra for EEC2 model supporting 80k+ student developers and 9k end users<br>
-      • Improved funding ops by 20% on $9k+ budget; nominated for head of Software</p>
-    </div>
-
-    <div class="experience-item">
-      <strong>Director of Operations</strong> - Northeastern AI (AINU)<br>
-      <em>Mar 2025 – Present</em><br>
-      <p>• Secured sponsorships with Adobe and Anthropic and 10+ cross‑club collaborations<br>
-      • Managed $100k+ across client, partnership, and sponsorship accounts</p>
-    </div>
-  </section>
-
-  <!-- Education Section -->
-  <section id="education">
-    <h2>Education</h2>
-    <div class="education-item">
-      <strong>B.S. in Computer Science, AI Concentration; Minor in Applied Mathematics</strong><br>
-      <em>Northeastern University, Boston, MA</em><br>
-      <em>Sep 2023 – May 2027</em><br>
-      <p>GPA: 3.5</p>
-      <p>Relevant Coursework: Data Structures & Algorithms, Machine Learning, Software Engineering, Database Systems, Web Development</p>
-    </div>
-  </section>
-
-  <!-- Projects Section -->
-  <section id="projects">
-    <h2>Projects & Awards</h2>
-    <div class="project-item">
-      <h3>TrackNTrip</h3>
-      <p>ML‑optimized trip assistant for cost, sustainability, and engagement; front end accelerated by a generative dev tool. Built with React, Node.js, Leaflet.js, Python.</p>
-      <div class="project-links">
-        <a href="https://devpost.com/software/trackntrip" target="_blank">Devpost</a>
+  <!-- Navigation -->
+  <nav class="navbar">
+    <div class="nav-container">
+      <div class="nav-logo">
+        <a href="index.html">MA</a>
+      </div>
+      <ul class="nav-menu">
+        <li class="nav-item">
+          <a href="index.html" class="nav-link active">Home</a>
+        </li>
+        <li class="nav-item">
+          <a href="about.html" class="nav-link">About</a>
+        </li>
+        <li class="nav-item">
+          <a href="experience.html" class="nav-link">Experience</a>
+        </li>
+        <li class="nav-item">
+          <a href="projects.html" class="nav-link">Projects</a>
+        </li>
+        <li class="nav-item">
+          <a href="contact.html" class="nav-link">Contact</a>
+        </li>
+      </ul>
+      <div class="hamburger">
+        <span class="bar"></span>
+        <span class="bar"></span>
+        <span class="bar"></span>
       </div>
     </div>
+  </nav>
 
-    <div class="project-item">
-      <h3>EmberAid — 1st Overall</h3>
-      <p>Automated insurance claim workflows using an AI agent. Built with OpenAI Agents, YOLOv8.</p>
-      <div class="project-links">
-        <a href="https://github.com/PalashAwasthi05/EmberAid.git" target="_blank">GitHub</a>
+  <!-- Hero Section -->
+  <section class="hero">
+    <div class="hero-container">
+      <div class="hero-content">
+        <div class="hero-text">
+          <h1 class="hero-title">
+            <span class="gradient-text">Mehr Anand</span>
+          </h1>
+          <p class="hero-subtitle">AI‑focused CS + Applied Math @ Northeastern</p>
+          <p class="hero-description">Building ML + analytics that ship</p>
+          <div class="hero-buttons">
+            <a href="about.html" class="btn btn-primary">Learn More</a>
+            <a href="projects.html" class="btn btn-secondary">View Projects</a>
+          </div>
+        </div>
+        <div class="hero-image">
+          <img src="assets/Linkend Profile Picture.JPG" alt="Mehr Anand" class="profile-image">
+        </div>
       </div>
-    </div>
-
-    <div class="project-item">
-      <h3>Lumen AI — 1st Overall, $2,000</h3>
-      <p>Real‑time data pipeline with MySQL + Leaflet.js for safe‑route suggestions. Built with MySQL, React, Node, Python.</p>
-      <div class="project-links">
-        <a href="https://lumen-tan.vercel.app/" target="_blank">Live App</a>
-      </div>
-    </div>
-
-    <div class="project-item">
-      <h3>Inquisiv — 1st in two tracks</h3>
-      <p>AI dropshipping assistant for market research and ad‑creative generation; 96% sentiment/trend accuracy. Built with Python, PyTorch, React.</p>
-      <div class="project-links">
-        <a href="https://devpost.com/software/inquisiv" target="_blank">Devpost</a>
-      </div>
-    </div>
-
-    <div class="project-item">
-      <h3>CoSInt</h3>
-      <p>Matching platform and API that connects students and employers for co‑op searches. Built with MySQL, Python, Streamlit, REST API.</p>
     </div>
   </section>
 
-  <!-- Contact Section -->
-  <section id="contact">
-    <h2>Contact</h2>
-    <p>I'm always interested in new opportunities and collaborations. Feel free to reach out!</p>
-    <div class="contact-info">
-      <p><strong>Email:</strong> <a href="mailto:annad.me@northeastern.edu">annad.me@northeastern.edu</a></p>
-      <p><strong>Location:</strong> Boston, MA</p>
+  <!-- Quick Stats -->
+  <section class="stats">
+    <div class="stats-container">
+      <div class="stat-item">
+        <div class="stat-number">50+</div>
+        <div class="stat-label">International Chapters</div>
+      </div>
+      <div class="stat-item">
+        <div class="stat-number">$100k+</div>
+        <div class="stat-label">Funds Raised</div>
+      </div>
+      <div class="stat-item">
+        <div class="stat-number">1st</div>
+        <div class="stat-label">Hackathon Wins</div>
+      </div>
+      <div class="stat-item">
+        <div class="stat-number">3.5</div>
+        <div class="stat-label">GPA</div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Featured Skills -->
+  <section class="featured-skills">
+    <div class="container">
+      <h2>Technical Expertise</h2>
+      <div class="skills-grid">
+        <div class="skill-category">
+          <h3><i class="fas fa-code"></i> Programming</h3>
+          <div class="skill-tags">
+            <span>Python</span>
+            <span>Java</span>
+            <span>JavaScript</span>
+            <span>React</span>
+            <span>Kotlin</span>
+          </div>
+        </div>
+        <div class="skill-category">
+          <h3><i class="fas fa-brain"></i> AI/ML</h3>
+          <div class="skill-tags">
+            <span>TensorFlow</span>
+            <span>scikit-learn</span>
+            <span>PyTorch</span>
+            <span>PCA</span>
+            <span>SVM</span>
+          </div>
+        </div>
+        <div class="skill-category">
+          <h3><i class="fas fa-database"></i> Data & Cloud</h3>
+          <div class="skill-tags">
+            <span>AWS</span>
+            <span>Azure</span>
+            <span>PostgreSQL</span>
+            <span>MongoDB</span>
+            <span>Power BI</span>
+          </div>
+        </div>
+      </div>
     </div>
   </section>
 
   <!-- Footer -->
-  <footer>
-    <div class="social-links">
-      <a href="https://www.linkedin.com/in/mehr-anand/" target="_blank">LinkedIn</a>
-      <a href="https://github.com/mesanand" target="_blank">GitHub</a>
+  <footer class="footer">
+    <div class="footer-container">
+      <div class="footer-content">
+        <div class="footer-section">
+          <h3>Mehr Anand</h3>
+          <p>AI‑focused CS + Applied Math @ Northeastern</p>
+        </div>
+        <div class="footer-section">
+          <h4>Connect</h4>
+          <div class="social-links">
+            <a href="https://www.linkedin.com/in/mehr-anand/" target="_blank"><i class="fab fa-linkedin"></i></a>
+            <a href="https://github.com/mesanand" target="_blank"><i class="fab fa-github"></i></a>
+            <a href="mailto:annad.me@northeastern.edu"><i class="fas fa-envelope"></i></a>
+          </div>
+        </div>
+      </div>
+      <div class="footer-bottom">
+        <p>&copy; 2024 Mehr Anand. All rights reserved.</p>
+      </div>
     </div>
-    <p>&copy; 2024 Mehr Anand. All rights reserved.</p>
   </footer>
+
+  <script src="assets/script.js"></script>
 </body>
 </html>
