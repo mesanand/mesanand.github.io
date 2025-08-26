@@ -246,11 +246,27 @@
         }
 
         /* Clubs Section */
+        .year-section {
+            margin-bottom: 40px;
+        }
+
+        .year-section h3 {
+            font-size: 1.8rem;
+            color: #2d3748;
+            margin-bottom: 20px;
+            text-align: center;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 15px;
+            border-radius: 10px;
+            box-shadow: 0 5px 15px rgba(102, 126, 234, 0.3);
+        }
+
         .clubs-grid {
             display: grid;
             grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
             gap: 25px;
-            margin-top: 30px;
+            margin-top: 20px;
         }
 
         .club-card {
@@ -259,6 +275,7 @@
             padding: 25px;
             text-align: center;
             transition: transform 0.2s ease, box-shadow 0.2s ease;
+            border-left: 4px solid #667eea;
         }
 
         .club-card:hover {
@@ -266,19 +283,28 @@
             box-shadow: 0 15px 30px rgba(0,0,0,0.1);
         }
 
-        .club-card h3 {
+        .club-card h4 {
             color: #2d3748;
             margin-bottom: 10px;
+            font-size: 1.2rem;
         }
 
         .club-card .role {
             color: #667eea;
             font-weight: 600;
+            margin-bottom: 8px;
+        }
+
+        .club-card .dates {
+            color: #718096;
+            font-size: 0.9rem;
             margin-bottom: 10px;
+            font-style: italic;
         }
 
         .club-card p {
             color: #4a5568;
+            line-height: 1.5;
         }
 
         @media (max-width: 768px) {
@@ -379,28 +405,28 @@
                 <div class="timeline-item">
                     <div class="timeline-dot"></div>
                     <div class="timeline-content">
-                        <h3>Software Engineer</h3>
-                        <div class="company">Tech Company Inc.</div>
-                        <div class="date">June 2023 - Present</div>
-                        <p>Developed and maintained web applications using modern technologies. Collaborated with cross-functional teams to deliver high-quality software solutions.</p>
+                        <h3>Financial Machine Learning Engineer</h3>
+                        <div class="company">Brewster Ambulance Service</div>
+                        <div class="date">July 2025 - Present</div>
+                        <p>Automizing financial risk with machine learning and creating predicitve AI analytics for saving lives.</p>
                     </div>
                 </div>
                 <div class="timeline-item">
                     <div class="timeline-dot"></div>
                     <div class="timeline-content">
-                        <h3>Frontend Developer Intern</h3>
-                        <div class="company">StartupXYZ</div>
-                        <div class="date">May 2022 - August 2022</div>
-                        <p>Built responsive user interfaces and implemented new features for the company's main product. Worked with React and TypeScript.</p>
+                        <h3>CTO</h3>
+                        <div class="company">Teens4Teens</div>
+                        <div class="date">May 2023 - Present</div>
+                        <p>501(c3) Nonprofit, $100k+ in funding, $5k in donations, 2M+ views, integrated ML models to find out who we can help the most.</p>
                     </div>
                 </div>
                 <div class="timeline-item">
                     <div class="timeline-dot"></div>
                     <div class="timeline-content">
-                        <h3>Research Assistant</h3>
-                        <div class="company">University Research Lab</div>
-                        <div class="date">January 2022 - May 2023</div>
-                        <p>Conducted research on machine learning algorithms and data analysis. Published findings in academic journals.</p>
+                        <h3>2X intern</h3>
+                        <div class="company">Dana Farber Cancer Institute</div>
+                        <div class="date">June 2021 - July 2022</div>
+                        <p>Collaborated with MIT/Harvard’s Broad Institute for a deeper dive into efficiently identifying drug-trial needs.</p>
                     </div>
                 </div>
             </div>
@@ -409,26 +435,60 @@
         <!-- Clubs Section -->
         <div id="clubs" class="section">
             <h2>Clubs & Affiliations</h2>
-            <div class="clubs-grid">
-                <div class="club-card">
-                    <h3>Computer Science Club</h3>
-                    <div class="role">Vice President</div>
-                    <p>Organized coding competitions, workshops, and networking events for students interested in technology.</p>
+            
+            <!-- 2025-2026 Academic Year -->
+            <div class="year-section">
+                <h3>2025-2026 Academic Year</h3>
+                <div class="clubs-grid">
+                    <!-- Add your 2025-2026 clubs here -->
+                    <div class="club-card">
+                        <h4>Example Club</h4>
+                        <div class="role">Your Role</div>
+                        <div class="dates">September 2025 - Present</div>
+                        <p>Description of what you did and your responsibilities.</p>
+                    </div>
                 </div>
-                <div class="club-card">
-                    <h3>Women in Tech</h3>
-                    <div class="role">Mentor</div>
-                    <p>Mentored junior students and organized events to promote diversity and inclusion in the tech industry.</p>
+            </div>
+
+            <!-- 2024-2025 Academic Year -->
+            <div class="year-section">
+                <h3>2024-2025 Academic Year</h3>
+                <div class="clubs-grid">
+                    <!-- Add your 2024-2025 clubs here -->
+                    <div class="club-card">
+                        <h4>Example Club</h4>
+                        <div class="role">Your Role</div>
+                        <div class="dates">September 2024 - May 2025</div>
+                        <p>Description of what you did and your responsibilities.</p>
+                    </div>
                 </div>
-                <div class="club-card">
-                    <h3>Hackathon Club</h3>
-                    <div class="role">Event Coordinator</div>
-                    <p>Planned and executed multiple hackathons, bringing together students from various disciplines.</p>
+            </div>
+
+            <!-- 2023-2024 Academic Year -->
+            <div class="year-section">
+                <h3>2023-2024 Academic Year</h3>
+                <div class="clubs-grid">
+                    <!-- Add your 2023-2024 clubs here -->
+                    <div class="club-card">
+                        <h4>Example Club</h4>
+                        <div class="role">Your Role</div>
+                        <div class="dates">September 2023 - May 2024</div>
+                        <p>Description of what you did and your responsibilities.</p>
+                    </div>
                 </div>
-                <div class="club-card">
-                    <h3>Open Source Club</h3>
-                    <div class="role">Contributor</div>
-                    <p>Contributed to open-source projects and helped other students learn about collaborative development.</p>
+            </div>
+
+            <!-- 2022-2023 Academic Year -->
+            <div class="year-section">
+                <h3>2022-2023 Academic Year</h3>
+                <div class="clubs-grid">
+                    <!-- Add your 2022-2023 clubs here -->
+                    <div class="club-card">
+                        <h4>Example Club</h4>
+                        <div class="role">Your Role</div>
+                        <div class="dates">September 2022 - May 2023</div>
+                        <p>Description of what you did and your responsibilities.</p>
+                    </div>
                 </div>
             </div>
         </div>
