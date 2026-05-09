@@ -1,4 +1,4 @@
-# Mehr Anand
+# Mehr Anand likes feet
 
 AI‑focused CS + Applied Math @ Northeastern · Building ML + analytics that ship
 
